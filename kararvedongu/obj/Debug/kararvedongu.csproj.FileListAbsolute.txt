@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\kararvedongu\kararvedongu\bin\Debug\kararvedongu.exe.config
+C:\Users\User\source\repos\kararvedongu\kararvedongu\bin\Debug\kararvedongu.exe
+C:\Users\User\source\repos\kararvedongu\kararvedongu\bin\Debug\kararvedongu.pdb
+C:\Users\User\source\repos\kararvedongu\kararvedongu\obj\Debug\kararvedongu.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\kararvedongu\kararvedongu\obj\Debug\kararvedongu.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\kararvedongu\kararvedongu\obj\Debug\kararvedongu.Form1.resources
+C:\Users\User\source\repos\kararvedongu\kararvedongu\obj\Debug\kararvedongu.Properties.Resources.resources
+C:\Users\User\source\repos\kararvedongu\kararvedongu\obj\Debug\kararvedongu.csproj.GenerateResource.cache
+C:\Users\User\source\repos\kararvedongu\kararvedongu\obj\Debug\kararvedongu.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kararvedongu\kararvedongu\obj\Debug\kararvedongu.exe
+C:\Users\User\source\repos\kararvedongu\kararvedongu\obj\Debug\kararvedongu.pdb
